@@ -216,4 +216,4 @@ function sendToDiscord(title, message, webhook)
     end, 'POST', logs, { ['Content-Type'] = 'application/json' })
 end
 
-lib.versionCheck('LumaNodeStudios/LSN_Compensation')
+lib.versionCheck('LumaNodeStudios/LNS_Compensation')
